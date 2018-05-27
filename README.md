@@ -7,5 +7,6 @@
 1. [VSCode 工具笔记之版本控制Git实践](https://github.com/MirroZhou/Blog/issues/6)
 2. [VSCode 工具笔记之快捷键](https://github.com/MirroZhou/Blog/issues/4)
 3. [前端缓存总结](https://github.com/MirroZhou/Blog/issues/5)
+4. [前端血汗教训：怎么才能让我减少发布Bug概率？](https://github.com/MirroZhou/Blog/issues/7)
 ## 读书笔记
 1. [《程序是怎样跑起来的》](https://github.com/MirroZhou/Blog/issues/2)
